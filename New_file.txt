@@ -1,1 +1,2 @@
 This is a new file created for test.
+This is the second line of the file.
